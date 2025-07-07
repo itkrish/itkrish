@@ -7,16 +7,18 @@ Now I'm belong to a manufacturing company in Japan.
 ## 🔧 Skills
 
 - Launguages: Python / C / C++ / C#
-- Tools: Git / GitHub / Docker / VSCode / Unity
+- Tools: Git / GitHub / Docker / VSCode / Unity / Godot 
 
 ## 🧪 Currently Learning
 
-- Unity
 - AWS
+- Web FrameWork
+- Embeded AI
 
 ## 🏃 Side Projects
 
 - Creating PC Game
+- Creating SaaS on AWS
 
 I have not failed. I've just found 10,000 ways that won't work.
 
