@@ -6,19 +6,21 @@ Now I'm belong to a manufacturing company in Japan.
 
 ## 🔧 Skills
 
-- Launguages: Python / C / C++ / C#
+- Launguages: Python / Typescript / PostgreSQL / Rust / C / C++
 - Tools: Git / GitHub / Docker / VSCode / Unity / Godot 
 
 ## 🧪 Currently Learning
 
 - AWS
+- Azure
+- GCP
 - Web FrameWork
 - Embeded AI
 
 ## 🏃 Side Projects
 
 - Creating PC Game
-- Creating SaaS on AWS
+- Creating SaaS on AWS, Azure and GCP
 
 I have not failed. I've just found 10,000 ways that won't work.
 
